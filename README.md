@@ -15,7 +15,9 @@
   </h1>
 </div>
 ---
+
 ### :woman_technologist: About Me :
+
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
@@ -26,7 +28,7 @@
 
 - :zap: In my free time, I solve problems on Hackerrank, work on side projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/ritashmi203)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ritashmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/ritashmi203)
 
 ---
 
@@ -50,9 +52,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritashmi&theme=dark&background=000000)](https://git.io/streak-stats)
-### 📈 Github Stats
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritashmi&theme=dark&background=000000)](https://git.io/streak-stats) ### 📈 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham" alt="ritashmi" />
 
 
