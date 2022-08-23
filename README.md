@@ -51,11 +51,14 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ritashmi&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-### 📈 Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham" alt="ritashmi" />
 
+### Quick stats about me
+| Github Streaks | Github Stats |
+| --- | --- |
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham" alt="ritashmi)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritashmi&layout=compact&theme=vision-friendly-dark)]
+<!-- ### 📈 Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham" alt="ritashmi" />
+ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritashmi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
