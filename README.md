@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I solve problems on Hackerrank, work on side projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ritashmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/ritashmi203) [![Gmail Badge](https://img.shields.io/badge/-Ritashmi-red?style=flat&logo=Gmail&logoColor=red)](mailto:srivastava.ritashmi203@gmail.com)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ritashmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/ritashmi203) [![Gmail Badge](https://img.shields.io/badge/-Ritashmi-red?style=flat&logo=Gmail&logoColor=white)](mailto:srivastava.ritashmi203@gmail.com)
 
 ---
 
