@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Ritashmi)" title="👋 Hi there! I'm Ritashmi"/>
+<img src="https://github.com/ritashmi/ritashmi/blob/43fb4fa7b4780765df5d80b89ba5ec3bb8657df1/20220823_1055122.gif" alt="👋 Hi there! I'm Ritashmi)" title="👋 Hi there! I'm Ritashmi"/>
   <div id="badges">
     <a href="https://in.linkedin.com/in/ritashmi203">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
