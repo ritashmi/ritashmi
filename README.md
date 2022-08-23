@@ -25,7 +25,7 @@
 
 - :zap: In my free time, I solve problems on Hackerrank, work on side projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ritashmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/ritashmi203)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ritashmi-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/ritashmi203) [![Gmail Badge](https://img.shields.io/badge/-Ritashmi-Red?style=flat&logo=Gmail&logoColor=red)](mailto:srivastava.ritashmi203@gmail.com)
 
 ---
 
@@ -52,7 +52,7 @@
 ### Quick stats about me
 | Github Streaks | Github Stats |
 | --- | --- |
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshitpratapsingh&theme=dark)](https://git.io/streak-stats) | ![Ritashmi's github stats](https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritashmi&theme=dark)](https://git.io/streak-stats) | ![Ritashmi's github stats](https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |
 <!-- ### 📈 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham" alt="ritashmi" />
  -->
