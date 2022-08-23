@@ -55,7 +55,7 @@
 ### Quick stats about me
 | Github Streaks | Github Stats |
 | --- | --- |
-| ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham" alt="ritashmi") | ![Ritashmi's github stats](https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |
+| ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham) | ![Ritashmi's github stats](https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) |
 <!-- ### 📈 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ritashmi&show_icons=true&theme=gotham" alt="ritashmi" />
  -->
